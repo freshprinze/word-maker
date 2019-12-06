@@ -1,0 +1,100 @@
+1: school
+2: sheet
+3: Fizz
+4: It shouldn't break anything!
+5: Buzz
+6: Fizz
+7: outer
+8: It shouldn't break anything!
+9: Fizz
+10: Buzz
+11: coat
+12: Fizz
+13: either
+14: without
+15: FizzBuzz
+16: It shouldn't break anything!
+17: former
+18: Fizz
+19: hang
+20: Buzz
+21: Fizz
+22: hospital
+23: It shouldn't break anything!
+24: Fizz
+25: Buzz
+26: complete
+27: Fizz
+28: new
+29: up
+30: FizzBuzz
+31: chain
+32: day
+33: Fizz
+34: determine
+35: Buzz
+36: Fizz
+37: service
+38: knife
+39: Fizz
+40: Buzz
+41: It shouldn't break anything!
+42: Fizz
+43: It shouldn't break anything!
+44: indeed
+45: FizzBuzz
+46: traffic
+47: spirit
+48: Fizz
+49: tune
+50: Buzz
+51: Fizz
+52: poor
+53: feature
+54: Fizz
+55: Buzz
+56: greatest
+57: Fizz
+58: been
+59: result
+60: FizzBuzz
+61: pleasant
+62: nor
+63: Fizz
+64: bar
+65: Buzz
+66: Fizz
+67: want
+68: It shouldn't break anything!
+69: Fizz
+70: Buzz
+71: vapor
+72: Fizz
+73: open
+74: It shouldn't break anything!
+75: FizzBuzz
+76: worry
+77: party
+78: Fizz
+79: label
+80: Buzz
+81: Fizz
+82: recent
+83: equal
+84: Fizz
+85: Buzz
+86: girl
+87: Fizz
+88: account
+89: guard
+90: FizzBuzz
+91: paint
+92: It shouldn't break anything!
+93: Fizz
+94: roof
+95: Buzz
+96: Fizz
+97: It shouldn't break anything!
+98: It shouldn't break anything!
+99: Fizz
+100: Buzz
